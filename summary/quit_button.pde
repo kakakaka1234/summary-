@@ -6,7 +6,7 @@ String title= "Quit";
 
 
 void quitButtonSetup() {
-  titleFont = createFont ("Harrington", 55); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
+  titleFont = createFont ("BookmanOldStyle-Bold-48", 40); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
 }
 
 void quitButtonDraw() {
